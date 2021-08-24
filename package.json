@@ -14,7 +14,10 @@
     }
   ],
   "main": "./lib",
-  "browser": "./lib/browser.js",
+  "browser": {
+    "./lib": "./lib/browser.js",
+    "process": "process/"
+  },
   "directories": {
     "doc": "./docs",
     "example": "./examples",
@@ -35,18 +38,17 @@
   "bugs": {
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
+    "@stdlib/assert-is-browser": "^0.0.x",
     "@stdlib/assert-is-function": "^0.0.x",
+    "@stdlib/assert-is-nonnegative-integer": "^0.0.x",
+    "@stdlib/assert-is-nonnegative-integer-array": "^0.0.x",
     "@stdlib/assert-is-object": "^0.0.x",
     "@stdlib/math-base-special-modf": "^0.0.x",
     "@stdlib/math-base-special-round": "^0.0.x",
-    "@stdlib/utils-global": "^0.0.x"
-  },
-  "devDependencies": {
-    "@stdlib/assert-is-browser": "^0.0.x",
-    "@stdlib/assert-is-nonnegative-integer": "^0.0.x",
-    "@stdlib/assert-is-nonnegative-integer-array": "^0.0.x",
     "@stdlib/time-toc": "^0.0.x",
+    "@stdlib/utils-global": "^0.0.x",
     "proxyquire": "^2.0.0",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
