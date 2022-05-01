@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/time-tic",
-  "version": "0.0.0",
+  "version": "0.0.6",
   "description": "Return a high-resolution time.",
   "license": "Apache-2.0",
   "author": {
