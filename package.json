@@ -45,7 +45,7 @@
     "@stdlib/assert-is-nonnegative-integer": "^0.1.0",
     "@stdlib/assert-is-nonnegative-integer-array": "^0.1.0",
     "@stdlib/assert-is-object": "^0.1.1",
-    "@stdlib/math-base-special-modf": "^0.1.0",
+    "@stdlib/math-base-special-modf": "^0.1.1",
     "@stdlib/math-base-special-round": "^0.1.1",
     "@stdlib/time-toc": "^0.1.0",
     "@stdlib/utils-global": "^0.1.1",
