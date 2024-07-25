@@ -2,9 +2,29 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.2.1">
 
-## Unreleased (2024-07-01)
+## 0.2.1 (2024-02-21)
+
+<section class="features">
+
+### Features
+
+-   [`019ac75`](https://github.com/stdlib-js/stdlib/commit/019ac756964f9f829ee64005de17687377762e75) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+### BREAKING CHANGES
+
+-   [`019ac75`](https://github.com/stdlib-js/stdlib/commit/019ac756964f9f829ee64005de17687377762e75): update minimum TypeScript version
+
+</section>
+
+<!-- /.breaking-changes -->
 
 <section class="commits">
 
@@ -12,7 +32,8 @@
 
 <details>
 
--   [`a591e05`](https://github.com/stdlib-js/stdlib/commit/a591e052cf1b1515c267781b914c6a482e150425) - **test:** fix test configuration _(by Athan Reines)_
+-   [`019ac75`](https://github.com/stdlib-js/stdlib/commit/019ac756964f9f829ee64005de17687377762e75) - **feat:** update minimum TypeScript version _(by Philipp Burckhardt)_
+-   [`34071a1`](https://github.com/stdlib-js/stdlib/commit/34071a1984a3a03a9bf4dd5df134e2a09502a4da) - **chore:** resolve lint errors _(by Philipp Burckhardt)_
 
 </details>
 
@@ -26,7 +47,7 @@
 
 A total of 1 person contributed to this release. Thank you to this contributor:
 
--   Athan Reines
+-   Philipp Burckhardt
 
 </section>
 
