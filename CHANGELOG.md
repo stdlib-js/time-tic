@@ -1,0 +1,59 @@
+# CHANGELOG
+
+> Package changelog.
+
+<section class="release" id="v0.2.2">
+
+## 0.2.2 (2024-07-25)
+
+<section class="features">
+
+### Features
+
+-   [`019ac75`](https://github.com/stdlib-js/stdlib/commit/019ac756964f9f829ee64005de17687377762e75) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+### BREAKING CHANGES
+
+-   [`019ac75`](https://github.com/stdlib-js/stdlib/commit/019ac756964f9f829ee64005de17687377762e75): update minimum TypeScript version
+
+</section>
+
+<!-- /.breaking-changes -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`019ac75`](https://github.com/stdlib-js/stdlib/commit/019ac756964f9f829ee64005de17687377762e75) - **feat:** update minimum TypeScript version _(by Philipp Burckhardt)_
+-   [`34071a1`](https://github.com/stdlib-js/stdlib/commit/34071a1984a3a03a9bf4dd5df134e2a09502a4da) - **chore:** resolve lint errors _(by Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
