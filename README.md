@@ -78,7 +78,7 @@ The returned `array` has the following format: `[seconds, nanoseconds]`.
 
 <!-- /.usage -->
 
-<secton class="notes">
+<section class="notes">
 
 ## Notes
 
