@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import tic from 'https://cdn.jsdelivr.net/gh/stdlib-js/time-tic@esm/index.mjs';
+import tic from 'https://cdn.jsdelivr.net/gh/stdlib-js/time-tic@v0.2.3-esm/index.mjs';
 ```
 
 #### tic()
@@ -83,7 +83,7 @@ The returned `array` has the following format: `[seconds, nanoseconds]`.
 <body>
 <script type="module">
 
-import tic from 'https://cdn.jsdelivr.net/gh/stdlib-js/time-tic@esm/index.mjs';
+import tic from 'https://cdn.jsdelivr.net/gh/stdlib-js/time-tic@v0.2.3-esm/index.mjs';
 import toc from 'https://cdn.jsdelivr.net/gh/stdlib-js/time-toc@esm/index.mjs';
 
 var start = tic();
